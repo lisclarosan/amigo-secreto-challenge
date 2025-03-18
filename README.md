@@ -2,15 +2,15 @@
 
 Descripción de la página
 
-. Es un proyecto web basado en el juego "Amigo Secreto" donde la página permitirá a los usuarios ingresar los nombres de los participantes del juego en una lista para luego realizar un sorteo aleatorio y así definir qué amigo secreto le tocará a cada participante. 
-. Fue desarrollado con HTML, CSS y JavaScript.
+- Es un proyecto web basado en el juego "Amigo Secreto" donde la página permitirá a los usuarios ingresar los nombres de los participantes del juego en una lista para luego realizar un sorteo aleatorio y así definir qué amigo secreto le tocará a cada participante.
+- Fue desarrollado con HTML, CSS y JavaScript.
 
 Funcionalidades
 
-. Agregar nombres a una lista de participantes.
-. Validar la entrada para evitar nombres vacíos.
-. Sortear un amigo secreto de forma aleatoria para cada participante.
-. Mostrar el nombre del amigo secreto sorteado.
+- Agregar nombres a una lista de participantes.
+- Validar la entrada para evitar nombres vacíos.
+-  Sortear un amigo secreto de forma aleatoria para cada participante.
+- Mostrar el nombre del amigo secreto sorteado.
 
 Cómo usar
 
